@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mhamza08
-- 👀 I’m interested in Artificial Intelligence
+- 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning CSE with AI and ML
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me: 
